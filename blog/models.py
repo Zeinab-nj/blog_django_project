@@ -6,8 +6,8 @@ from django.contrib.auth.models import User
 class Post(models.Model) :
    
     #relational
-    author = models.foreignkey(User , on_delete =models.CASCADE ,related_name = 'user_posts')
-    class status(models.TextChoises) :
+    author = models.ForeignKey(User , on_delete =models.CASCADE ,related_name = 'user_posts')
+    class status(models.TextChoices) :
         DRAFT = 'DR' , 'Draft'
         PUBLISHED = 'PB' ,'published'
         REJECTED =  'RJ' , 'rejected'
@@ -23,7 +23,7 @@ class Post(models.Model) :
     updated = models.DateTimeField(auto_now=True)
     
     #choice fields
-    status = models.CharField(max_length = 2 , choices=status.choices , default=status.Draft )
+    status = models.CharField(max_length = 2 , choices=status.choices , default=status.DRAFT )
 
     class Meta :
         ordering = ['-publish']
