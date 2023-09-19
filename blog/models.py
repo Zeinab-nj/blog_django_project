@@ -2,12 +2,17 @@ from django.db import models
 from django.utils import timezone 
 from django.contrib.auth.models import User
 
+# manager 
+class PublishedManager(models.Manager) :
+    def get_queryset(self) :
+        return super().get_queryset().filter(status = Post.Status.PUBLISHED)
+
 # Create your models here.
 class Post(models.Model) :
    
     #relational
     author = models.ForeignKey(User , on_delete =models.CASCADE ,related_name = 'user_posts')
-    class status(models.TextChoices) :
+    class Status(models.TextChoices) :
         DRAFT = 'DR' , 'Draft'
         PUBLISHED = 'PB' ,'published'
         REJECTED =  'RJ' , 'rejected'
@@ -22,8 +27,10 @@ class Post(models.Model) :
     created = models.DateTimeField(auto_now_add=True)
     updated = models.DateTimeField(auto_now=True)
     
+    objects = models.Manager()
+    published = PublishedManager()
     #choice fields
-    status = models.CharField(max_length = 2 , choices=status.choices , default=status.DRAFT )
+    status = models.CharField(max_length = 2 , choices=Status.choices , default=Status.DRAFT )
 
     class Meta :
         ordering = ['-publish']
