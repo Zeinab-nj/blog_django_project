@@ -1,0 +1,25 @@
+{% extends 'parent/base.html'%}
+{%block title %} Ticket form {%endblock%}
+{% block content %} 
+<h1> ارسال تیکت </h1>
+    <form method = "post">
+    {% csrf_token %}
+    
+    {{ form.as_p }}
+    <input type = "submit" , value = "ثبت تیکت">
+    </form>
+    {%if forms.errors%}
+        لطفا خطای زیر را اصلاح کنید!
+        <br>
+        {%for field in form%}
+            {%if field.errors%} 
+                {%for error in field.errors%}
+                    {{field.label}} : {{error}}
+                {%endfor%}
+            {%endif%}
+        {%endfor%}
+    {%endif%}
+    {%if form.none_field_errors%}
+        {{form.none_field_errors}}
+    {%endif%}
+{%endblock %} 
