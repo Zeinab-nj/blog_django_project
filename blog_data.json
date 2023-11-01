@@ -1,0 +1,1066 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-09-12T23:27:38.372Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "1",
+        "object_repr": "Azal",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-09-12T23:52:18.618Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Post object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-09-12T23:53:46.254Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Post object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-09-13T00:32:20.997Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "معرفی کاموا بافت",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-09-13T00:32:21.001Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Second post of Camvabaft",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-09-14T21:04:35.980Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "معرفی کاموا بافت",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-09-19T20:52:41.902Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "camva",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-09-19T20:53:09.807Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "cpp",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-09-27T23:34:55.475Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "camva",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-09-27T23:34:55.478Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "django",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-10-01T22:49:29.326Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "salamchekhabar",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-10-10T03:16:02.587Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Ticket object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-10-10T03:22:33.185Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "5",
+        "object_repr": "",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-10-10T03:22:33.198Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-10-10T03:22:33.209Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-10-10T03:22:33.221Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-10-10T03:25:10.115Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "6",
+        "object_repr": "مریم",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-10-10T03:25:42.409Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "7",
+        "object_repr": "مریم",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-10-10T03:26:43.990Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "8",
+        "object_repr": "مریم",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-10-11T03:41:06.986Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "ازل:معرفی کاموا بافت",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-10-11T20:23:47.256Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "مریم:معرفی کاموا بافت",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0648\\u0636\\u0639\\u06cc\\u062a\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-10-11T20:24:46.714Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "مریم:معرفی کاموا بافت",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0648\\u0636\\u0639\\u06cc\\u062a\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-10-11T20:24:46.720Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "مریم:معرفی کاموا بافت",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0648\\u0636\\u0639\\u06cc\\u062a\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-10-11T20:25:12.565Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "مریم:معرفی کاموا بافت",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-10-11T20:25:18.077Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "مریم:معرفی کاموا بافت",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-10-11T20:30:43.696Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "ازل:معرفی کاموا بافت",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-10-11T20:30:50.378Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "ازل:معرفی کاموا بافت",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0628\\u062f\\u0646\\u0647 \\u067e\\u06cc\\u0627\\u0645\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-10-12T01:28:35.022Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Second post of Camvabaft",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0632\\u0645\\u0627\\u0646 \\u0645\\u0637\\u0627\\u0644\\u0639\\u0647 \"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-10-12T01:28:44.807Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "camva",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0632\\u0645\\u0627\\u0646 \\u0645\\u0637\\u0627\\u0644\\u0639\\u0647 \"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-10-12T01:28:55.859Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "cpp",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0632\\u0645\\u0627\\u0646 \\u0645\\u0637\\u0627\\u0644\\u0639\\u0647 \"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-10-12T01:29:04.993Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "django",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0632\\u0645\\u0627\\u0646 \\u0645\\u0637\\u0627\\u0644\\u0639\\u0647 \"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-10-12T01:29:13.526Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "salamchekhabar",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0632\\u0645\\u0627\\u0646 \\u0645\\u0637\\u0627\\u0644\\u0639\\u0647 \"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-10-12T01:29:23.340Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "معرفی کاموا بافت",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0632\\u0645\\u0627\\u0646 \\u0645\\u0637\\u0627\\u0644\\u0639\\u0647 \"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2023-10-12T02:21:17.757Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "5",
+        "object_repr": "kjk:معرفی کاموا بافت",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2023-10-12T02:21:24.126Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "6",
+        "object_repr": "kjk:معرفی کاموا بافت",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2023-10-12T02:21:30.289Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "7",
+        "object_repr": "llkk:salamchekhabar",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add post",
+        "content_type": 7,
+        "codename": "add_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change post",
+        "content_type": 7,
+        "codename": "change_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete post",
+        "content_type": 7,
+        "codename": "delete_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view post",
+        "content_type": 7,
+        "codename": "view_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add ticket",
+        "content_type": 8,
+        "codename": "add_ticket"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change ticket",
+        "content_type": 8,
+        "codename": "change_ticket"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete ticket",
+        "content_type": 8,
+        "codename": "delete_ticket"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view ticket",
+        "content_type": 8,
+        "codename": "view_ticket"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add کامنت",
+        "content_type": 9,
+        "codename": "add_comment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change کامنت",
+        "content_type": 9,
+        "codename": "change_comment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete کامنت",
+        "content_type": 9,
+        "codename": "delete_comment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view کامنت",
+        "content_type": 9,
+        "codename": "view_comment"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$xaITp2OTh7ecPvh1BK1daU$cN7k+Iq11JbSu9TYGOMes9Dto0AAJLTvfITWJk53xwE=",
+        "last_login": "2023-09-30T18:54:52.003Z",
+        "is_superuser": true,
+        "username": "Azal",
+        "first_name": "Azal",
+        "last_name": "Najafi",
+        "email": "Azal.nj2000@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-09-12T23:23:37Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "blog",
+        "model": "post"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "blog",
+        "model": "ticket"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "blog",
+        "model": "comment"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "bp5p0azuou302rpk7f6s9eryuecv5vkm",
+    "fields": {
+        "session_data": ".eJxVjM0OwiAQhN-FsyEsP3Xx6L3PQJaFSNVAUtqT8d2VpAc9TTLfN_MSgfathL3nNSxJXASI028XiR-5DpDuVG9NcqvbukQ5FHnQLueW8vN6uH8HhXr5rjUY1Fp7jM4anyMCOjhPbKKlxOAmr9BmrbwbqTxbm8hhBs8KDbF4fwChJjaG:1qgCkG:82sajcbThjzagsuC8G58MxY5le-yGlN21Um_XihHWBY",
+        "expire_date": "2023-09-26T23:24:36.117Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "qkl83dd4p4gwf6c2hastve08qkrtbyzz",
+    "fields": {
+        "session_data": ".eJxVjM0OwiAQhN-FsyEsP3Xx6L3PQJaFSNVAUtqT8d2VpAc9TTLfN_MSgfathL3nNSxJXASI028XiR-5DpDuVG9NcqvbukQ5FHnQLueW8vN6uH8HhXr5rjUY1Fp7jM4anyMCOjhPbKKlxOAmr9BmrbwbqTxbm8hhBs8KDbF4fwChJjaG:1qmf76:GNTji9ptCtJa5Us-SFEYCjrmnxQjCkrOvHSUC5US0Do",
+        "expire_date": "2023-10-14T18:54:52.010Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "zb6dbkoyxamia5dscljk7bctmxv1h0c9",
+    "fields": {
+        "session_data": ".eJxVjM0OwiAQhN-FsyEsP3Xx6L3PQJaFSNVAUtqT8d2VpAc9TTLfN_MSgfathL3nNSxJXASI028XiR-5DpDuVG9NcqvbukQ5FHnQLueW8vN6uH8HhXr5rjUY1Fp7jM4anyMCOjhPbKKlxOAmr9BmrbwbqTxbm8hhBs8KDbF4fwChJjaG:1qle2t:_KkjJXAB4v16lS-uGSM_Xz5dKdp1U6-dIEvsKYUqn6w",
+        "expire_date": "2023-10-11T23:34:19.044Z"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+        "author": 1,
+        "title": "معرفی کاموا بافت",
+        "description": "برند کاموابافت اولین بار درسال 1401 فعالیت کاری خودش را دراینستاگرام آغاز کرده اما به دلیل مشکلات فیلترینگ بازه ی زمانی تولید محتوارا متوقف کرد . درآبان ماه سال 1402 مجددا این برند محصولات تولیدی بافتنی خودش را در سایت کوچکی عرضه کرد . درابتدا این کسب و کاربسیار کوچک بود اما پس ار گذشت چند ماه به رشد خیلی خوبی رسید و توانست محبوبیت خودرا میان طرفداران مشتریان آنلاین به دست آورد. این برند توسط مریم زحمتکش ، المیراسادات ورودی، زینب نجفی بنیان گذاری شد. درابتدا تمام کارهای تولیدی در خانه انجام میشد اما پس از چند ماه با رشد و پیشرفت بی سابقه ای که این برند داشت توانست کارگاهی را جهت اشتغال زایی برای افراد مستعد وتوانمند در حوزه هنری و بافتنی ایجاد کند. درحال حاظر این برندیکی از بهترین برندهای تولید پوشاک بافت برای کودکان ،نوجوانان و بزرگسالان درایران میباشد.",
+        "slug": "camvabaft-intro",
+        "publish": "2023-09-11T16:52:00Z",
+        "created": "2023-09-12T23:52:18.608Z",
+        "updated": "2023-10-12T01:29:23.333Z",
+        "status": "PB",
+        "reading_time": 2
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+        "author": 1,
+        "title": "Second post of Camvabaft",
+        "description": "camvabaft company",
+        "slug": "camvabaft-company",
+        "publish": "2023-09-12T23:52:59Z",
+        "created": "2023-09-12T23:53:46.247Z",
+        "updated": "2023-10-12T01:28:35.017Z",
+        "status": "PB",
+        "reading_time": 5
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+        "author": 1,
+        "title": "django",
+        "description": "framework",
+        "slug": "django",
+        "publish": "2023-09-13T04:42:58Z",
+        "created": "2023-09-13T04:43:06.283Z",
+        "updated": "2023-10-12T01:29:04.987Z",
+        "status": "PB",
+        "reading_time": 5
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+        "author": 1,
+        "title": "camva",
+        "description": "camva",
+        "slug": "camva",
+        "publish": "2023-09-19T20:52:22Z",
+        "created": "2023-09-19T20:52:41.897Z",
+        "updated": "2023-10-12T01:28:44.799Z",
+        "status": "PB",
+        "reading_time": 2
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 5,
+    "fields": {
+        "author": 1,
+        "title": "cpp",
+        "description": "cpp",
+        "slug": "cpp",
+        "publish": "2023-09-19T20:52:48Z",
+        "created": "2023-09-19T20:53:09.802Z",
+        "updated": "2023-10-12T01:28:55.851Z",
+        "status": "PB",
+        "reading_time": 5
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 6,
+    "fields": {
+        "author": 1,
+        "title": "salamchekhabar",
+        "description": "asallksjkjlkfja",
+        "slug": "salamchekhabar",
+        "publish": "2023-10-01T22:48:58Z",
+        "created": "2023-10-01T22:49:29.320Z",
+        "updated": "2023-10-12T01:29:13.524Z",
+        "status": "PB",
+        "reading_time": 1
+    }
+},
+{
+    "model": "blog.ticket",
+    "pk": 1,
+    "fields": {
+        "message": "کاشکی بازم ازین لباس بافتنی خوشگلا بیارید",
+        "name": "ازل",
+        "email": "gedafo3781@poverts.com",
+        "phone": "09111234545",
+        "subject": "پیشنهاد"
+    }
+},
+{
+    "model": "blog.ticket",
+    "pk": 9,
+    "fields": {
+        "message": "من یک باگ امنیتی پیدا کردم",
+        "name": "مریم",
+        "email": "gedafo3781@poverts.com",
+        "phone": "09111234545",
+        "subject": "گزارش"
+    }
+},
+{
+    "model": "blog.ticket",
+    "pk": 10,
+    "fields": {
+        "message": "سایت فوق العاده ای دارین عالیه محشره ;)",
+        "name": "جیگر",
+        "email": "kksdkjfkdn@yahoo.com",
+        "phone": "09111234565",
+        "subject": "انتقاد"
+    }
+},
+{
+    "model": "blog.ticket",
+    "pk": 11,
+    "fields": {
+        "message": "تست",
+        "name": "هلو",
+        "email": "jsflsdjfj@gmail.com",
+        "phone": "09111234565",
+        "subject": "انتقاد"
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 1,
+    "fields": {
+        "post": 1,
+        "name": "ازل",
+        "body": "امیدوارم همواره موفق و موید باشید . jldjlsj",
+        "created": "2023-10-11T03:41:06.977Z",
+        "updated": "2023-10-11T20:30:50.376Z",
+        "active": true
+    }
+},
+{
+    "model": "blog.comment",
+    "pk": 2,
+    "fields": {
+        "post": 1,
+        "name": "مریم",
+        "body": "بسیار عالی",
+        "created": "2023-10-11T20:15:58.750Z",
+        "updated": "2023-10-11T20:23:47.247Z",
+        "active": true
+    }
+}
+]
